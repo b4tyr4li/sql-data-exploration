@@ -7,11 +7,8 @@
 .DS_Store
 Thumbs.db
 
-# Data you don't want to track
 data/raw/
 *.bak
 *.mdf
 *.ldf
 
-# Jupyter/IPython checkpoints (if any notebooks)
-.ipynb_checkpoints/
